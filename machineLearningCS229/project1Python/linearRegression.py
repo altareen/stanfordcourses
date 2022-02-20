@@ -89,7 +89,7 @@ def main():
     result = linearRegression()
     print(f'J, theta, predict35, predict70 = {result}')
     theta = result[1]
-    #producePlot(theta)
+    producePlot(theta)
 
 if __name__ == '__main__':
     main()
