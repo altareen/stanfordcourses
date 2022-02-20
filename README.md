@@ -6,7 +6,7 @@ Code frameworks for Stanford's online CS courses.
 
 ## Project 1: Linear Regression
 
-### Determining profits from a food truck by considering the populations of various cities
+Determining profits from a food truck by considering the populations of various cities.
 
-
+![Profit vs. population](https://github.com/altareen/stanfordcourses/blob/main/machineLearningCS229/project1Python/profitVsPopulation.png)
 
