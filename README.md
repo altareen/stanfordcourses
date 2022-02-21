@@ -10,3 +10,10 @@ Determining profits from a food truck by considering the populations of various 
 
 ![Profit vs. population](https://github.com/altareen/stanfordcourses/blob/main/machineLearningCS229/project1Python/profitVsPopulation.png)
 
+
+## Project 2: Logistic Regression
+
+Predicting college admissions for students based on their performance on two exams.
+
+![Admissions vs. scores]()
+
