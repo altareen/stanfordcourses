@@ -15,5 +15,5 @@ Determining profits from a food truck by considering the populations of various 
 
 Predicting college admissions for students based on their performance on two exams.
 
-![Admissions vs. scores]()
+![Admissions vs. scores](https://github.com/altareen/stanfordcourses/blob/main/machineLearningCS229/project2Python/admissionsVsScores.png)
 
